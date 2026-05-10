@@ -1,0 +1,75 @@
+[00:00:14.476] Server  LOG      ✓ Ready in 12s
+[00:03:54.239] Server  LOG      ○ Compiling / ...
+[00:04:53.269] Server  LOG      ○ Compiling /_not-found/page ...
+[00:04:56.150] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:08.469] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:13.987] Server  LOG      ✓ Compiled in 744ms
+[00:09:32.907] Browser WARN    Image with src "/images/banner3.avif" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:36.732] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:27.574] Browser WARN    Image with src "/images/banner3.avif" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:37:21.800] Server  LOG      ✓ Compiled in 7.6s
+[00:37:33.481] Server  LOG      ✓ Compiled in 6.1s
+[00:38:07.298] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:19.670] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:24.382] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:30.503] Server  LOG      ✓ Compiled in 1519ms
+[00:42:03.486] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:12.289] Server  LOG      ○ Compiling /login ...
+[00:42:40.769] Browser LOG     LoginPage render: isAuthenticated= false
+[00:42:40.769] Browser LOG     role testt undefined
+[00:42:40.769] Browser LOG     LoginPage render: isAuthenticated= false
+[00:42:40.769] Browser LOG     role testt undefined
+[00:44:43.891] Browser LOG     LoginPage render: isAuthenticated= false
+[00:44:43.891] Browser LOG     role testt undefined
+[00:44:43.891] Browser LOG     LoginPage render: isAuthenticated= false
+[00:44:43.891] Browser LOG     role testt undefined
+[00:45:07.183] Browser LOG     LoginPage render: isAuthenticated= false
+[00:45:07.183] Browser LOG     role testt undefined
+[00:45:07.183] Browser LOG     LoginPage render: isAuthenticated= false
+[00:45:07.184] Browser LOG     role testt undefined
+[00:45:35.854] Browser LOG     LoginPage render: isAuthenticated= false
+[00:45:35.855] Browser LOG     role testt undefined
+[00:45:35.855] Browser LOG     LoginPage render: isAuthenticated= false
+[00:45:35.855] Browser LOG     role testt undefined
+[00:45:38.222] Browser LOG     LoginPage render: isAuthenticated= false
+[00:45:38.222] Browser LOG     role testt undefined
+[00:45:38.222] Browser LOG     LoginPage render: isAuthenticated= false
+[00:45:38.223] Browser LOG     role testt undefined
+[00:45:38.223] Browser LOG     loginData {"email":"admin@gmail.com","password":"123456789Aa"}
+[00:47:08.179] Browser LOG     LoginPage render: isAuthenticated= false
+[00:47:08.179] Browser LOG     role testt undefined
+[00:47:08.179] Browser LOG     LoginPage render: isAuthenticated= false
+[00:47:08.179] Browser LOG     role testt undefined
+[00:47:14.310] Browser LOG     LoginPage render: isAuthenticated= true
+[00:47:14.310] Browser LOG     role testt admin
+[00:47:14.310] Browser LOG     LoginPage render: isAuthenticated= true
+[00:47:14.311] Browser LOG     role testt admin
+[00:47:14.311] Browser LOG     loginData {"email":"admin@gmail.com","password":"123456789Aa"}
+[00:47:17.219] Server  LOG      ○ Compiling /adminboard ...
+[00:47:33.150] Browser LOG     Rendering RequestRow for request: 2
+[00:47:33.150] Browser LOG     Rendering RequestRow for request: 2
+[00:47:33.150] Browser LOG     Rendering RequestRow for request: 1
+[00:47:33.150] Browser LOG     Rendering RequestRow for request: 1
+[00:47:34.122] Browser LOG     Rendering RequestRow for request: 2
+[00:47:34.122] Browser LOG     Rendering RequestRow for request: 2
+[00:47:34.122] Browser LOG     Rendering RequestRow for request: 1
+[00:47:34.122] Browser LOG     Rendering RequestRow for request: 1
+[00:50:47.048] Server  LOG      ✓ Compiled in 2.2s
+[00:50:50.889] Server  LOG      ✓ Compiled in 1267ms
+[01:10:52.583] Server  LOG      ✓ Compiled in 1586ms
+[01:10:55.890] Server  LOG      ✓ Compiled in 2.1s
+[01:13:33.239] Server  LOG      ✓ Compiled in 4.2s
+[01:14:35.381] Server  LOG      ✓ Compiled in 2.6s
+[01:17:53.232] Server  LOG      ○ Compiling /about ...
+[01:31:39.881] Server  LOG      ✓ Compiled in 6.1s
+[01:31:51.533] Server  LOG      ✓ Compiled in 2.8s
+[01:31:58.673] Server  LOG      ✓ Compiled in 2.7s
+[01:32:10.622] Server  LOG      ✓ Compiled in 891ms
+[01:32:40.015] Server  LOG      ✓ Compiled in 2.2s
+[01:32:49.008] Server  LOG      ✓ Compiled in 1894ms
+[01:32:56.501] Server  LOG      ✓ Compiled in 1738ms
+[01:33:08.550] Server  LOG      ✓ Compiled in 1812ms
+[01:33:15.775] Server  LOG      ✓ Compiled in 2.4s
+[01:34:27.532] Server  LOG      ✓ Compiled in 2.1s

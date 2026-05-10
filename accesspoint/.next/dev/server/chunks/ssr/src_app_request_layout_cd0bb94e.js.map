@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Desktop/graduation-project/AccessPoint/accesspoint/src/app/request/layout.js"],"sourcesContent":["export default function LibraryLayout({ children }) {\r\n  return (\r\n    <div className=\"library-layout\">\r\n      <main>{children}</main>\r\n    </div>\r\n  );\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS,cAAc,EAAE,QAAQ,EAAE;IAChD,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;sBAAM;;;;;;;;;;;AAGb"}}]
+}
